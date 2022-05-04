@@ -19,6 +19,6 @@
 
 ### Outside of coding I enjoy:
 
-- Invest :money:
-- Trading :money:
-- Sneakers :shoes:
+- Invest :moneybag:
+- Trading :chart:
+- Sneakers :athletic_shoe:
