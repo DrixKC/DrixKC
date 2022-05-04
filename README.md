@@ -22,3 +22,5 @@
 - Invest :moneybag:
 - Trading :chart:
 - Sneakers :athletic_shoe:
+
+![Github Activity](https://activity-graph.herokuapp.com/graph?username=drixkc&theme=github&custom_title=Activity)
